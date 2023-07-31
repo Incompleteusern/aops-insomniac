@@ -1,0 +1,13 @@
+// ==UserScript==
+// @name        AoPS Insomniac
+// @namespace   https://github.com/Incompleteusern
+// @match       https://artofproblemsolving.com/*
+// @grant       none
+// @version     1.0
+// @author      Incompleteusern
+// @license     MIT
+// ==/UserScript==
+
+AoPS.Community.Utils.putCommunityToSleep = () => {
+  // NO STFU
+};
