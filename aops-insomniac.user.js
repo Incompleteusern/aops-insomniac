@@ -8,6 +8,9 @@
 // @license     MIT
 // ==/UserScript==
 
-AoPS.Community.Utils.putCommunityToSleep = () => {
-  // NO STFU
-};
+try {
+  AoPS.Community.Utils.putCommunityToSleep = () => {
+    // NO STFU
+  };
+} catch (e) {}
+
