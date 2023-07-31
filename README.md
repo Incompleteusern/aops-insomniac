@@ -1,3 +1,5 @@
+![FAKE NEWS](begone.png)
+
 # Aops Insomniac
 
 > "The AoPS Community has gone to sleep due to inactivity."
